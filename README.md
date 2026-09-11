@@ -1,8 +1,5 @@
 showpiece:
 
-controls:
+controls 
 
-valitation: 
-
-results: 
-
+validation
